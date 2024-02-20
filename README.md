@@ -19,5 +19,13 @@ System:
 
 **NodeJS** : v14.21.3 
 
+**Cara Running App**
+
+1. npm install
+2. ionic cordova platform add android@12
+3. ionic cordova build android
+
+
+
  
 
