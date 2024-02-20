@@ -10,14 +10,14 @@
 
  **Utility**:
 
-   cordova-res                          : 0.15.4
+   **cordova-res**                          : 0.15.4
 
 
-   **native-run (update available: 2.0.1) **: 1.7.3
+   **native-run (update available: 2.0.1)**: 1.7.3
 
 System:
 
-NodeJS : v14.21.3 
+**NodeJS** : v14.21.3 
 
  
 
