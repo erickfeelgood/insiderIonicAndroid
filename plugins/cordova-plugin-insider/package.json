@@ -1,0 +1,50 @@
+{
+  "_from": "cordova-plugin-insider",
+  "_id": "cordova-plugin-insider@1.9.0",
+  "_inBundle": false,
+  "_integrity": "sha512-k1drZHBV8YXJjxhgNrv+ZUuV/vmrwPQ6Uy78SEYAZUQTsSF2b9CrQGThdKdit+iQI1Ljaleo6qKL1BpOZtTSNg==",
+  "_location": "/cordova-plugin-insider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-insider",
+    "name": "cordova-plugin-insider",
+    "escapedName": "cordova-plugin-insider",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-insider/-/cordova-plugin-insider-1.9.0.tgz",
+  "_shasum": "f847fe03d0f50abb0767f73226087ba0cd5c0c6e",
+  "_spec": "cordova-plugin-insider",
+  "_where": "/Users/bankmega/Documents/IFORCE/insiderAndroid",
+  "author": {
+    "name": "useinsider"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-insider",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "cordova_name": "Insider Cordova Plugin",
+  "deprecated": false,
+  "description": "A plugin that you can use Insider SDK with Cordova and Ionic",
+  "keywords": [
+    "cordova-plugin-insider",
+    "cordova-insider",
+    "ionic-insider"
+  ],
+  "license": "ISC",
+  "main": "www/InsiderPlugin.js",
+  "name": "cordova-plugin-insider",
+  "typings": "types/InsiderPlugin.d.ts",
+  "version": "1.9.0"
+}

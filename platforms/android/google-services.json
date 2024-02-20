@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "526400243351",
+    "firebase_url": "https://msmile-ios.firebaseio.com",
+    "project_id": "msmile-ios",
+    "storage_bucket": "msmile-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526400243351:android:a94cbf1c41427550bd4bd2",
+        "android_client_info": {
+          "package_name": "com.bankmega.mraker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDQxHRLMC29qKd7haiVV9QNqk-hYekrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526400243351-3p2cq5ospbf49hjn0fdhc62mjbdbqarg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bankmega.megasmartpaydev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526400243351:android:e63d130b939dd8bcbd4bd2",
+        "android_client_info": {
+          "package_name": "com.bankmega.msmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDQxHRLMC29qKd7haiVV9QNqk-hYekrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526400243351-3p2cq5ospbf49hjn0fdhc62mjbdbqarg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bankmega.megasmartpaydev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526400243351:android:0dce4d48e8cf0355bd4bd2",
+        "android_client_info": {
+          "package_name": "com.bankmega.msmiledev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDQxHRLMC29qKd7haiVV9QNqk-hYekrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526400243351-3p2cq5ospbf49hjn0fdhc62mjbdbqarg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bankmega.megasmartpaydev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526400243351:android:dea386b3df690e5ebd4bd2",
+        "android_client_info": {
+          "package_name": "com.bankmega.msmilepilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDQxHRLMC29qKd7haiVV9QNqk-hYekrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526400243351-3p2cq5ospbf49hjn0fdhc62mjbdbqarg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bankmega.megasmartpaydev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526400243351:android:7bc71e1fcce144c9bd4bd2",
+        "android_client_info": {
+          "package_name": "com.bankmega.rndev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDQxHRLMC29qKd7haiVV9QNqk-hYekrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526400243351-kns0gp8f18soqim4ckd9on9pnb0np3qq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526400243351-3p2cq5ospbf49hjn0fdhc62mjbdbqarg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bankmega.megasmartpaydev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
