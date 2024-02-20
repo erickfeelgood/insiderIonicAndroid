@@ -1,4 +1,6 @@
 **Ionic info**
+
+**Cordova**           : 11.1.0
  
 **Ionic CLI**         : 6.20.9 (/opt/homebrew/lib/node_modules/@ionic/cli)
  
